@@ -1,0 +1,40 @@
+Figur1.png
+size: 2844, 1080
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character_1_block(60x19)
+  rotate: false
+  xy: 0, 0
+  size: 360, 1080
+  orig: 360, 1080
+  offset: 0, 0
+  index: -1
+Character_1_kick(60x37)
+  rotate: false
+  xy: 360, 0
+  size: 666, 1080
+  orig: 666, 1080
+  offset: 0, 0
+  index: -1
+Character_1_normalStand(60x27)
+  rotate: false
+  xy: 1026, 0
+  size: 486, 1080
+  orig: 486, 1080
+  offset: 0, 0
+  index: -1
+Character_1_pre_kick(60x37)
+  rotate: false
+  xy: 1512, 0
+  size: 666, 1080
+  orig: 666, 1080
+  offset: 0, 0
+  index: -1
+Character_1_punch(60x37)
+  rotate: false
+  xy: 2178, 0
+  size: 666, 1080
+  orig: 666, 1080
+  offset: 0, 0
+  index: -1
